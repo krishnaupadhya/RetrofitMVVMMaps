@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#35302C</color>
+    <color name="colorPrimaryDark">#201A16</color>
+    <color name="colorAccent">#4F8DF0</color>
+    <color name="pacifyca_blue">#25aae1</color>
+    <color name="pacifyca_blue_tint">#25aae1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_gray">#999999</color>
+    <color name="light_grey">#D1D0CF</color>
+</resources>

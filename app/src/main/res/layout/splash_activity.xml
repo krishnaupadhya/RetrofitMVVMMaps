@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/splash_main_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/margin_80dp"
+        android:layout_marginRight="@dimen/margin_80dp"
+        android:src="@drawable/turvo_logo" />
+
+    <logistics.turvo.com.turvologistics.widget.CustomProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:background="@drawable/circular_progress_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:orientation="vertical">
+
+        <logistics.turvo.com.turvologistics.widget.LatoTextView
+            android:id="@+id/powered_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/powered_by_turvo"
+            android:textColor="@color/white"
+            android:textSize="8sp"
+            app:latoFontType="latotoSemiBold" />
+
+        <logistics.turvo.com.turvologistics.widget.LatoTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/copyrights_2017_turvo"
+            android:textColor="@color/white"
+            android:textSize="8sp"
+            app:latoFontType="latotoRegular" />
+
+        <logistics.turvo.com.turvologistics.widget.LatoTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:gravity="center_horizontal"
+            android:text="@string/all_rights_reserved"
+            android:textColor="@color/white"
+            android:textSize="8sp"
+            app:latoFontType="latotoRegular"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "latitude": 51.507,
+      "longitude": -0.1275,
+      "title": "London",
+      "snippet": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+      "image_url": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg"
+    },
+    {
+      "latitude": 19.093,
+      "longitude": 72.88,
+      "title": "MUMBAI",
+      "snippet": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry.",
+      "image_url": "http://s3.india.com/travel/wp-content/uploads/2016/01/marine-drive.jpg"
+    },
+    {
+      "latitude": 37.37,
+      "longitude": -122.034,
+      "title": "Sunnyvale",
+      "snippet": "Sunnyvale is a city located in Santa Clara County, California. As of the 2010 United States Census, the population was 140,095.",
+      "image_url": "http://www.svcoc.org/images/slideshow/slideshow-2.jpg"
+    },
+    {
+      "latitude": 13.026,
+      "longitude": 77.594,
+      "title": "BANGLORE",
+      "snippet": "Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure",
+      "image_url": "https://www.lendbox.in/static/images/blog/personal-loans-in-bangalore.jpg"
+    },
+    {
+      "latitude": -37.81,
+      "longitude": 144.96,
+      "title": "Melbourne",
+      "snippet": "Melbourne is the coastal capital of the southeastern Australian state of Victoria. At the city's centre is the modern Federation Square development, with plazas, bars, and restaurants by the Yarra River. In the Southbank area, the Melbourne Arts Precinct is the site of Arts Centre Melbourne – a performing arts complex – and the National Gallery of Victoria, with Australian and indigenous art.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Melbourne_from_Waterfront_City%2C_Docklands_Pano%2C_20.07.06.jpg/800px-Melbourne_from_Waterfront_City%2C_Docklands_Pano%2C_20.07.06.jpg"
+    },
+    {
+      "latitude": 28.758,
+      "longitude": 77.081,
+      "title": "DELHI",
+      "snippet": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls.",
+      "image_url": "http://a1.images.thrillophilia.com/image/upload/s--ZjzPXyc3--/c_fill,f_auto,fl_strip_profile,h_660,q_jpegmini,w_1920/v1/images/photos/000/038/465/original/shutterstock_161305583-copy-31.jpg.jpg"
+    },
+    {
+      "latitude": -26.2,
+      "longitude": 28.04,
+      "title": "Johannesburg",
+      "snippet": "Johannesburg, South Africa's biggest city and capital of Gauteng province, began as a 19th-century gold-mining settlement. Its sprawling Soweto township was once home to Nelson Mandela and Desmond Tutu. Mandela’s former residence is now the Mandela House museum. Other Soweto museums that recount the struggle to end segregation include the somber Apartheid Museum and Constitution Hill, a former prison complex.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Johannesburg_From_M2_Highway_Looking_North.jpg/800px-Johannesburg_From_M2_Highway_Looking_North.jpg"
+    },
+    {
+      "latitude": 13.108,
+      "longitude": 80.273,
+      "title": "CHENNAI",
+      "snippet": "Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city’s roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary’s, a 17th-century Anglican church.",
+      "image_url": "http://media2.intoday.in/indiatoday/images/stories//2014November/ovrallchen_112114095529.jpg"
+    }
+  ]
+}

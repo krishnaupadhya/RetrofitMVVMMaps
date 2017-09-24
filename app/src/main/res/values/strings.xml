@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Turvo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_places">Places</string>
+
+    <string name="map">Map</string>
+    <string name="home">Home</string>
+    <string name="ok">OK</string>
+    <string name="title_location_permission">Location Permission</string>
+    <string name="text_location_permission" translatable="false">Access Location permission is
+        disabled. Enable it from \"Settings\" -> \"Permissions\" to continue.
+    </string>
+    <string name="title_activity_location_detail">LocationDetailActivity</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+
+    <string name="http_exception_error">Http exception</string>
+    <string name="time_out_error">Time out exception</string>
+    <string name="io_exception_msg">IO Exception</string>
+
+    <string name="copyrights_2017_turvo"><![CDATA[\@ Copyrights 2017 Turvo]]></string>
+    <string name="all_rights_reserved">All Rights Reserved</string>
+    <string name="powered_by_turvo">Powered By Turvo</string>
+    <string name="error_loading_locations">There seems to have been some error.</string>
+    <string name="default_loading_location">Press the button to load locations!</string>
+    <string name="action_grid">gird</string>
+    <string name="action_list">list</string>
+    <string name="no_internet_connection">No Internet connection, Please try agian later.</string>
+    <string name="refresh">Refersh</string>
+    <string name="re_center">center</string>
+</resources>
